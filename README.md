@@ -6,3 +6,6 @@ By using this app, a user can explore the changes of the energy mix over time fo
 
 To use the app hosted on the Streamlit cloud, please visit: https://europe-electricity-data.streamlit.app/
 
+<img width="1673" height="1103" alt="image" src="https://github.com/user-attachments/assets/5f1ca9ca-b396-4343-aa2b-72d059a205e3" />
+
+<img width="1253" height="777" alt="image" src="https://github.com/user-attachments/assets/f5999e67-d228-4a77-9f7a-314193eab384" />
